@@ -8,7 +8,7 @@ const Hero = () => {
     return (
         <div className='hero'>
 
-            {/* HERO LEFT CONTENT */}
+            {/* HERO LEFT CONTENT    */}
 
             <div className="hero-left">
                 <h2>NEW ARRIVALS ONLY</h2>
